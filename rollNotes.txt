@@ -1,0 +1,10 @@
+GE 
+	Dec, April, June, September
+ZT
+Spread Markets
+
+
+Look for trades above a certain threshold size
+GE8H.77
+
+ratio between bid and ask (outweigh can imply movement)

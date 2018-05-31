@@ -1,0 +1,144 @@
+Trade at  2018-03-01 13:46:59.928000
+	Size:  5384.0
+	Price:  97.9275
+	Reaction Time:  0:00:00.016000
+	End Price:  97.9275
+	Number of Trades (10s):  28
+
+
+
+Trade at  2018-03-01 15:24:25.124000
+	Size:  6250.0
+	Price:  97.92
+	Reaction Time:  0:00:00.009000
+	End Price:  97.92
+	Number of Trades (10s):  88
+
+
+
+Trade at  2018-03-02 11:55:21.262000
+	Size:  10014.0
+	Price:  97.9375
+	Reaction Time:  0:00:00.018000
+	End Price:  97.945
+	Number of Trades (10s):  200
+
+
+
+Trade at  2018-03-02 15:31:42.135000
+	Size:  6774.0
+	Price:  97.955
+	Reaction Time:  0:00:07.117000
+	End Price:  97.9525
+	Number of Trades (10s):  12
+
+
+
+Trade at  2018-03-02 16:02:57.189000
+	Size:  6000.0
+	Price:  97.9475
+	Reaction Time:  0:00:00.001000
+	End Price:  97.9475
+	Number of Trades (10s):  64
+
+
+
+Trade at  2018-03-02 19:53:05.020000
+	Size:  7500.0
+	Price:  97.94
+	Reaction Time:  0:00:00.004000
+	End Price:  97.94
+	Number of Trades (10s):  56
+
+
+
+Trade at  2018-03-07 19:43:24.740000
+	Size:  6611.0
+	Price:  97.8825
+	Reaction Time:  0:00:00.004000
+	End Price:  97.8825
+	Number of Trades (10s):  60
+
+
+
+Trade at  2018-03-08 13:13:12.218000
+	Size:  5576.0
+	Price:  97.8675
+	Reaction Time:  0:00:00.038000
+	End Price:  97.8675
+	Number of Trades (10s):  12
+
+
+
+Trade at  2018-03-08 21:21:12.474000
+	Size:  8237.0
+	Price:  97.8675
+	Reaction Time:  0:00:00.010000
+	End Price:  97.8675
+	Number of Trades (10s):  72
+
+
+
+Trade at  2018-03-09 17:03:21.256000
+	Size:  6029.0
+	Price:  97.8525
+	Reaction Time:  0:00:00.516000
+	End Price:  97.8525
+	Number of Trades (10s):  16
+
+
+
+Trade at  2018-03-09 18:43:24.660000
+	Size:  7000.0
+	Price:  97.8525
+	Reaction Time:  0:00:00
+	End Price:  97.8525
+	Number of Trades (10s):  252
+
+
+
+Trade at  2018-03-12 11:42:00.769000
+	Size:  6000.0
+	Price:  97.8525
+	Reaction Time:  0:00:00.009000
+	End Price:  97.8525
+	Number of Trades (10s):  44
+
+
+
+Trade at  2018-03-14 12:46:49.267000
+	Size:  5561.0
+	Price:  97.81
+	Reaction Time:  0:00:00.006000
+	End Price:  97.8075
+	Number of Trades (10s):  24
+
+
+
+Trade at  2018-03-14 17:53:08.926000
+	Size:  6830.0
+	Price:  97.81
+	Reaction Time:  0:00:00.047000
+	End Price:  97.81
+	Number of Trades (10s):  36
+
+
+
+Trade at  2018-03-15 12:41:33.471000
+	Size:  5156.0
+	Price:  97.7925
+	Reaction Time:  0:00:00.023000
+	End Price:  97.79
+	Number of Trades (10s):  12
+
+
+
+Trade at  2018-03-16 15:59:40.502000
+	Size:  10000.0
+	Price:  97.7775
+	Reaction Time:  0:00:00.002000
+	End Price:  97.7775
+	Number of Trades (10s):  204
+
+
+
